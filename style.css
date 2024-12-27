@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(197, 132, 132);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    font-size: large;
+    text-align: center;
+    color: lightgoldenrodyellow;
+}
+
+.recipes {
+    background-color: rgb(200, 200, 200);
+}
+
+#list{
+    font-weight: bold;
+    text-align: center;
+}
+
