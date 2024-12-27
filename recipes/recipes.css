@@ -2,18 +2,15 @@ body {
   background-color: rgb(197, 132, 132);
   color: white;
   font-family: "Courier New", Courier, monospace;
+}
+
+.header,
+.subheader {
+  font-size: large;
+  color: lightgoldenrodyellow;
   text-align: center;
 }
 
-.header {
-  font-size: large;
-  color: lightgoldenrodyellow;
-}
-
-.recipes {
+.subheader {
   background-color: rgb(200, 200, 200);
-}
-
-#list {
-  font-weight: bold;
 }
